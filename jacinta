@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jiexin BAI | INSEAD MBA | Strategic Growth Consultant</title>
+    <style>
+        body { font-family: 'Helvetica Neue', Arial, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto; padding: 40px 20px; background: #f9f9f9; }
+        header { border-bottom: 2px solid #4285F4; padding-bottom: 20px; margin-bottom: 40px; }
+        h1 { margin: 0; color: #1a73e8; font-size: 2.5em; }
+        .tagline { font-size: 1.2em; color: #5f6368; }
+        .section { margin-bottom: 30px; background: white; padding: 25px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.05); }
+        h2 { color: #1a73e8; border-left: 4px solid #4285F4; padding-left: 15px; text-transform: uppercase; font-size: 1.1em; letter-spacing: 1px; }
+        .job-title { font-weight: bold; font-size: 1.1em; display: flex; justify-content: space-between; }
+        .company { color: #1a73e8; font-weight: 500; }
+        .date { color: #70757a; font-size: 0.9em; }
+        ul { padding-left: 20px; }
+        li { margin-bottom: 8px; }
+        .contact-link { display: inline-block; margin-top: 10px; color: #1a73e8; text-decoration: none; border: 1px solid #1a73e8; padding: 5px 15px; border-radius: 20px; transition: 0.3s; }
+        .contact-link:hover { background: #1a73e8; color: white; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Jiexin BAI</h1>
+        <p class="tagline">INSEAD MBA | Strategic Account Leader | Global Growth Advisor</p>
+        <a href="mailto:jacinta.bai@insead.edu" class="contact-link">Get in Touch</a>
+        <a href="https://linkedin.com/in/jacintabai/" class="contact-link">LinkedIn</a>
+    </header>
+
+    <div class="section">
+        <h2>Professional Summary</h2>
+        <p>10+ years of excellence in high-stakes stakeholder management and revenue growth. Proven track record in generating USD 10M+ annual revenue by architecting integrated marketing solutions for top-tier financial institutions.</p>
+    </div>
+
+    <div class="section">
+        <h2>Selected Experience</h2>
+        <div class="job-item">
+            <div class="job-title">
+                <span class="company">Independent Strategic Consultant</span>
+                <span class="date">2025 – Present</span>
+            </div>
+            <ul>
+                <li><strong>Market Entry:</strong> Advising a Korean medical aesthetics venture on China GTM and Xiaohongshu growth strategies.</li>
+                <li><strong>Cross-Border Scaling:</strong> Supporting a leading Chinese consumer brand’s European expansion.</li>
+            </ul>
+        </div>
+        </div>
+</body>
+</html>
